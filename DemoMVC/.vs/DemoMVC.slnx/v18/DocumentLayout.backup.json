@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\laptrinh\\DemoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|d:\\laptrinh\\demomvc\\demomvc\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|d:\\laptrinh\\demomvc\\demomvc\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|d:\\laptrinh\\demomvc\\demomvc\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\member\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|d:\\laptrinh\\demomvc\\demomvc\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|d:\\laptrinh\\demomvc\\demomvc\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|d:\\laptrinh\\demomvc\\demomvc\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|d:\\laptrinh\\demomvc\\demomvc\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|d:\\laptrinh\\demomvc\\demomvc\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1860C2-0CA0-4217-BF49-5A132BC09FE8}|DemoMVC\\DemoMVC.csproj|solutionrelative:demomvc\\models\\datamodels\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Members\\Index.cshtml",
+              "ToolTip": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Members\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T15:29:00.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Views\\Members\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Members\\Create.cshtml",
+              "ToolTip": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Views\\Members\\Create.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Members\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T15:28:01.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Controllers\\MembersController.cs",
+              "ToolTip": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "DemoMVC\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:26:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:25:47.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Member\\Index.cshtml",
+              "ToolTip": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Member\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T15:22:51.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Views\\Member\\Create.cshtml",
+              "RelativeDocumentMoniker": "DemoMVC\\Views\\Member\\Create.cshtml",
+              "ToolTip": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Views\\Member\\Create.cshtml",
+              "RelativeToolTip": "DemoMVC\\Views\\Member\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T15:21:38.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Controllers\\MemberController.cs",
+              "ToolTip": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "DemoMVC\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:19:36.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Models\\DataModels\\Member.cs",
+              "RelativeDocumentMoniker": "DemoMVC\\Models\\DataModels\\Member.cs",
+              "ToolTip": "D:\\laptrinh\\DemoMVC\\DemoMVC\\Models\\DataModels\\Member.cs",
+              "RelativeToolTip": "DemoMVC\\Models\\DataModels\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:19:08.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

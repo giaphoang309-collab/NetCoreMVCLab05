@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Example05.Models.DataModels.Member>
+
+<h2>Danh sách thành viên</h2>
+<p>
+    <a asp-action="Create" class="btn btn-success">Thêm mới</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Member ID</th>
+            <th>Tên đăng nhập</th>
+            <th>Họ và tên</th>
+            <th>Email</th>
+            <th>Số điện thoại</th>
+            <th>Ngày sinh</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MemberID</td>
+                <td>@item.UserName</td>
+                <td>@item.FullName</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@item.Birthday.ToString("dd/MM/yyyy")</td>
+            </tr>
+        }
+    </tbody>
+</table>
